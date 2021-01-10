@@ -1,4 +1,4 @@
-# Veluga Coding Test
+# Onions Coding Test
 
 ### 소개
 
