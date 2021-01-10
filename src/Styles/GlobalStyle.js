@@ -39,6 +39,12 @@ body {
   line-height: 1.5;
 }
 
+button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
 ul[class],
 ol[class] {
   list-style: none;
